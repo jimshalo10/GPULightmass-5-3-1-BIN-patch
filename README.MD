@@ -24,7 +24,7 @@ To restore this back you much use the "Verify option" in the Epic Games Launcher
 
 which remove these patches.
 
-Use of this repository is without warranty and no responsibilty for the use and any subsequent problems is accepted
+Use of this repository is NO WARRANTY and no responsibilty for the use and any subsequent problems is accepted
 
 
 This is for research, development and training quality and not professional quality.
