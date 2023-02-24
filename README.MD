@@ -1,7 +1,7 @@
 About This GPULightmass-patch-5.1.1 for Unreal Engine 5 Binary
 ==========================================================
 
-The zip file is avaiable by clicking the "Code" button above and select "Download Zip" will create latest Zip file.
+The zip file is available by clicking the "Code" button above and select "Download Zip" will create latest Zip file.
 
 
 git clone https://github.com/jimshalo10/GPULightmass-patch-511.git which contains the file "GPULightmass-patch-5-1-1-v1.zip"
