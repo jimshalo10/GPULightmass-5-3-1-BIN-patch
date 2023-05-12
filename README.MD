@@ -1,23 +1,16 @@
-About This GPULightmass-patch-5.1.1 for Unreal Engine 5 Binary
-==========================================================
+About This GPULightmass-patch-5-3-preview binary for Unreal Engine 5.3 source built with VS2022 17.6 preview 4 onward
+====================================================================================
 
 The zip file is available by clicking the "Code" button above and select "Download Zip" will create latest Zip file.
 
 
-git clone https://github.com/jimshalo10/GPULightmass-patch-511.git
+This branch has been updated to 5.3 (ue5-main 29 April 2023) at
 
-which contains the file "GPULightmass-patch-5-1-1-v1.zip"
+https://github.com/jimshalo10/UnrealEngine-5/blob/Luoshuangs-GPULightmass-5.3-preview/README.md
 
-This branch has been updated to 5.1.1 from the original repository at 
+from the original repository at https://github.com/irobot/UnrealEngine/tree/GPULightmass-UE5.1.0-release
 
-https://github.com/irobot/UnrealEngine/tree/GPULightmass-UE5.1.0-release
-
-
-This version is all the patches for BINARY version 5.1 with the updates to 5.1.1
-
-at C:\Program Files\Epic Games\UE_5.1\Engine\Binaries\Win64 mainly
-
-The Epic Unreal Engine patches from the 5.1.1-release have been added make this repository
+This version is all the patches for BINARY version 5.3 Source built repository with the updates to 5.3
 
 
 When you load ANY version of GPULightmass patches your version will *no longer be classified as production* version. 
