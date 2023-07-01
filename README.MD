@@ -6,7 +6,7 @@ The zip file is available by clicking the "Code" button above and select "Downlo
 
 This branch has been updated to 5.3 (ue5-main 29 April 2023) at
 
-https://github.com/jimshalo10/UnrealEngine-5/blob/Luoshuangs-GPULightmass-5.3-preview/README.md
+https://github.com/jimshalo10/UnrealEngine-5/blob/Luoshuangs-GPULightmass-5.3/README.md
 
 from the original repository at https://github.com/irobot/UnrealEngine/tree/GPULightmass-UE5.1.0-release
 
