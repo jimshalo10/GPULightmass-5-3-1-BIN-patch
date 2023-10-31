@@ -10,7 +10,7 @@ Open the Epic Games Launcher go to Unreal Engine -> Library.
 
 Download the updates for 5.3 to version 5.3.1 Click the Install Plugins to update the Plugins
 
-** To Download the patch **
+**To Download the patch**
 
 The zip file is available by clicking the "Code" button above and select "Download Zip" will create latest Zip file.
 
