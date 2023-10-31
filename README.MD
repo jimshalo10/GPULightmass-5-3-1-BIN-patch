@@ -1,12 +1,22 @@
-About This Luoshuangs-GPULightmass-5.3-1 for Unreal Engine 5.3.1 Epic Binary
+About This Luoshuangs GPU Lightmass (LGPU) 5.3-1 patch for Unreal Engine 5.3.1 Epic Binary
 ====================================================================================
-Restart your PC. Open the Epic Games Launcher go to Unreal Engine -> Library. 
-**Important**
+Restart your PC.  
+
+
+Important steps
+===============
+
+Open the Epic Games Launcher go to Unreal Engine -> Library.
+
 Download the updates for 5.3 to version 5.3.1 Click the Install Plugins to update the Plugins
+
+** To Download the patch **
 
 The zip file is available by clicking the "Code" button above and select "Download Zip" will create latest Zip file.
 
+Copy this to installed Drive (C: or D:) \Program Files\Epic Games\UE_5.3 and extract the Engine directory on top of binary Engine directory. Answer "Yes" to the overwrite prompts
 
+** Notes on 5.3.1 **
 This branch has been updated to 5.3.1 (1st November 2023 UK GMT) at
 
 from the original repository at https://github.com/irobot/UnrealEngine/tree/GPULightmass-UE5.1.0-release
