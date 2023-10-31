@@ -1,5 +1,8 @@
-About This GPULightmass-patch-5-3-preview binary for Unreal Engine 5.3 source built with VS2022 17.6 preview 4 onward
+About This Luoshuangs-GPULightmass-5.3-1 for Unreal Engine 5.3.1 Epic Binary
 ====================================================================================
+Restart your PC. Open the Epic Games Launcher go to Unreal Engine -> Library. 
+**Important**
+Download the updates for 5.3 to version 5.3.1 Click the Install Plugins to update the Plugins
 
 The zip file is available by clicking the "Code" button above and select "Download Zip" will create latest Zip file.
 
