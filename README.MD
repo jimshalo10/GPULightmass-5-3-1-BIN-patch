@@ -16,7 +16,8 @@ The zip file is available by clicking the "Code" button above and select "Downlo
 
 Copy this to installed Drive (C: or D:) \Program Files\Epic Games\UE_5.3 and extract the Engine directory on top of binary Engine directory. Answer "Yes" to the overwrite prompts
 
-** Notes on 5.3.1 **
+**Notes on 5.3.1**
+
 This branch has been updated to 5.3.1 (1st November 2023 UK GMT) at
 
 from the original repository at https://github.com/irobot/UnrealEngine/tree/GPULightmass-UE5.1.0-release
