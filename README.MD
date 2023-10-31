@@ -4,13 +4,11 @@ About This GPULightmass-patch-5-3-preview binary for Unreal Engine 5.3 source bu
 The zip file is available by clicking the "Code" button above and select "Download Zip" will create latest Zip file.
 
 
-This branch has been updated to 5.3 (ue5-main 29 April 2023) at
-
-https://github.com/jimshalo10/UnrealEngine-5/blob/Luoshuangs-GPULightmass-5.3/README.md
+This branch has been updated to 5.3.1 (1st November 2023 UK GMT) at
 
 from the original repository at https://github.com/irobot/UnrealEngine/tree/GPULightmass-UE5.1.0-release
 
-This version is all the patches for BINARY version 5.3 Source built repository with the updates to 5.3
+This version is all the patches for BINARY version 5.3.1 Epic built repository with the updates to 5.3.1
 
 
 When you load ANY version of GPULightmass patches your version will *no longer be classified as production* version. 
