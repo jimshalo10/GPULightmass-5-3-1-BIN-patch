@@ -16,6 +16,10 @@ The zip file is available by clicking the "Code" button above and select "Downlo
 
 Copy this to installed Drive (C: or D:) \Program Files\Epic Games\UE_5.3 and extract the Engine directory on top of binary Engine directory. Answer "Yes" to the overwrite prompts
 
+In Windows Explorer install drive:\Program Files\Epic Games\UE_5.3\Engine\Binaries\Win64\
+
+Single Click "Date Modified" to make file list appear in latest file first and check that all the files dll UnrealLightmass files have been updated
+
 **Notes on 5.3.1**
 
 This branch has been updated to 5.3.1 (1st November 2023 UK GMT) at
