@@ -1,4 +1,4 @@
-About This Luoshuangs GPU Lightmass (LGPU) 5.3-1 patch for Unreal Engine 5.3.1 and 5.2.2 Epic Binary
+About This Luoshuangs GPU Lightmass (LGPU) 5.3 patch for Unreal Engine 5.3.1 and 5.2.2 Epic Binary
 ====================================================================================
 Restart your PC.  
 
